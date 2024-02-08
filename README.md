@@ -1,18 +1,18 @@
-# Hi, I'm Moises! :D
+# Olá, eu sou Moises! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moiseslx)](https://github.com/moiseslx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moiseslx/)](https://www.linkedin.com/in/moiseslx/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/moiseslx_/)](https://www.instagram.com/moiseslx_/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@moiseslx)](https://medium.com/@moiseslx)
 
-### About me
-Software developer with a background in **Digital Game Programming** and currently pursuing **Analysis and Systems Development**. Passionate about technology and continuously striving for improvement.
+### Sobre mim
+Estudante de desenvolvimento de software, com formação técnica em Programação de Jogos Digitais e atualmente cursando no curso de Análise e Desenvolvimento de Sistemas.
 
-- [Courses](https://drive.google.com/drive/folders/13UmaMEvHPr__UwsaK1Dq9Q1khvhZhKnp?usp=drive_link) 📚 - I have gained proficiency in various technologies through these certificates, including Java, Spring Framework, SQL, Git, and much more.
-- [E-mail](mailto:albuquerquemmoises@gmail.com) ✉️ - I am always open to job offers and employment opportunities.
-- [Blog](https://medium.com/@albuquerquemmoises) ✍🏼 - Writing ideas soon...
+- [Courses](https://drive.google.com/drive/folders/13UmaMEvHPr__UwsaK1Dq9Q1khvhZhKnp?usp=drive_link) 📚 - Meus certificados de estudos.
+- [E-mail](mailto:albuquerquemmoises@gmail.com) ✉️ -  Aberto a novas conversas ou oportunidades de trabalho.
+- [Blog](https://medium.com/@albuquerquemmoises) ✍🏼 -  Compartilhando ideias.
 
-### Languages and Tools
+### Linguagens e Ferramentas
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
